@@ -1,0 +1,124 @@
+#calc{
+   border: 3px solid red;
+  border-radius: 10%;
+  background-color: blue;
+  margin-top:10%;
+  margin-bottom:50%;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 430px;
+  padding-left: 14px;
+  
+}
+
+
+
+#answerScreen{
+  position:relative;
+  width: 70%;
+  height: 12%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #b4b39d;
+  border-radius: 12px;
+  background-color: #ffffff;
+  margin-top: 13.5%;
+  margin-bottom: 5.5%;
+  display: block; 
+  line-height: 12%;
+}
+
+#answer{
+  text-align:right;
+  font-size: 3em;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: -0.5%;
+  padding-bottom: 2%;
+  
+}
+
+
+body{
+    background: url("https://images.pexels.com/photos/317355/pexels-photo-317355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+p{
+  text-align: center;
+  
+}
+#title{
+  padding-top: 2%;
+  font-size: 3em;
+}
+
+.butt{
+  
+}
+button {
+  height: 50px;
+  width: 80px;
+  font-size: 1.1em;
+  margin-top: 1.5%;
+  margin-right: 1px;
+  border-radius: 5px;
+   
+}
+
+#buttons{
+  font-size: 0;
+  font-weight: bold;
+  position: absolute;
+  display: inline-block;
+  width: 50%;
+  height: auto;
+  margin-top: 100%;
+  
+ 
+ 
+
+}
+#zeroButton{
+  width: 165px;
+}
+
+
+#equalsButton {
+  position:absolute;
+  margin-left: 4px;
+  margin-right: 0.5px;
+  margin-top: -50px;
+  height: 105px;
+  width: 80px;
+   
+}
+
+p{
+  font-size: 1.5em;
+  text-align: right;
+}
+h2{
+  text-align: center;
+
+
+}
+h3{
+  text-align: right;
+}
+
+.nums{
+  
+};
+
+.operators {
+  
+} 
+.clearEntry {
+  
+} 
+
+.redButton{
+  background-color: #ce2900;
+  color: #ffffff;
+}
